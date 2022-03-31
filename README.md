@@ -1,4 +1,4 @@
-# ngo_app
+# HOPE_NGO_FINDER
 An app that would enable the user to find an Ngo according to specified location as well as choosing the issue that they would like to volunteer for. 
 
 
